@@ -3,14 +3,12 @@
 *::after {
 	box-sizing: border-box;
 }
-
 ul,
 ol {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
-
 body,
 h1,
 h2,
@@ -29,7 +27,6 @@ dd {
 	padding: 0;
 	font-weight: normal;
 }
-
 body {
 	min-height: 100vh;
 	scroll-behavior: smooth;
@@ -38,11 +35,9 @@ body {
 	line-height: 1.5;
 	color: white;
 }
-
 a {
 	text-decoration: none;
 }
-
 img {
 	display: block;
 	max-width: 100%;
@@ -50,7 +45,6 @@ img {
 	margin: 0;
 	padding: 0;
 }
-
 input,
 button,
 textarea,
